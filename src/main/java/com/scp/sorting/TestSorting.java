@@ -8,5 +8,8 @@ public class TestSorting {
 			int c=i+j;
 			
 			System.out.println("my first repo   .....");
-		        System.out.println("my first repo   .....");
+			System.out.println("my first repo   .....");
+			System.out.println("my first repo   .....");
+			System.out.println("my first repo   .....");
+			System.out.println("my first repo   .....");
 		}}
